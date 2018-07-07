@@ -1,0 +1,56 @@
+body{
+    background: url(../images/background5.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    font-family: 'Trebuchet MS', sans-serif;
+
+}
+
+html{
+    cursor: url(..images/controller.png), auto;
+}
+
+h1,h2,h3
+
+{font-family: "press Start 2P",cursive;
+    color:yellow;
+    padding:25px;
+    text-shadow: 3px 3p black;
+}
+
+.answer,#timer{
+    font-weight: 800;
+}
+
+#start{
+    color:black;
+}
+
+.choices{
+    text-align: center;
+    border:groove 2px black;
+    border-radius: 5%;
+    margin: 0 35%;
+}
+
+.choices:hover{
+    background-color: blue;
+    color:white;
+}
+
+#gameScreen {
+    -moz-box-shadow:7px 5px 40px 0px blue;
+    box-shadow:7px 5px 40px 0px  blue; 
+    margin-bottom: 200px;
+    
+}
+
+.shadow{
+    -webkit-box-shadow: -7px 6px 5px -1px blue;
+    -moz-box-shadow: -7px 6px 5px -1px  blue;
+    box-shadow:-7px 6px 5px -1px blue;
+
+}
+
